@@ -38,3 +38,6 @@ Output:
 
 <img width="320" height="520" alt="Screenshot 2026-02-02 131907" src="https://github.com/user-attachments/assets/6c0c9fd4-7318-47c4-b572-2447edff6eea" />
 
+
+<img width="301" height="250" alt="Screenshot 2026-02-02 132036" src="https://github.com/user-attachments/assets/cdce8746-6306-49fb-8235-7dcdba67a5cb" />
+
